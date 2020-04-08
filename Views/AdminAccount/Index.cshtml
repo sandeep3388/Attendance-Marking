@@ -1,0 +1,25 @@
+﻿
+
+@{
+	ViewBag.Title = "Index";
+	Layout = "~/Views/Shared/Index_LayoutPage1.cshtml";
+}
+
+<h1>Attendance Marking</h1>
+@if (Request.IsAuthenticated)
+{
+
+	<span>Welcome @Html.Encode(User.Identity.Name) </span>
+
+	@Html.ActionLink("AddTrainer", "AddTrainer", "AddTrainer")
+	<br>
+	@Html.ActionLink("AddSession", "AddSession", "Session");
+}
+else
+{
+
+@Html.ActionLink("ADMIN", "Register", "AdminAccount")
+<br />
+
+@Html.ActionLink("USER", "UserRegister", "UserAccount")
+}

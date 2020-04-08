@@ -1,0 +1,52 @@
+﻿@model AttendanceMarking.Models.AdminDetail
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/Register_LayoutPage1.cshtml";
+}
+
+<h2>Register</h2>
+
+
+<div>
+    @using (Html.BeginForm("SaveRegisterDetails", "AdminAccount"))
+    {
+        <div style="color:red;">@Html.ValidationSummary()</div>
+        <div class="row">
+            <div class="col-lg-12">@ViewBag.DuplicateMessage</div>
+            <!--Show details are saved successfully message-->
+            <div class="col-lg-12">@ViewBag.Message</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.FirstName)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.FirstName, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.LastName)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.LastName, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.Age)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.Age, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.Gender)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.Gender, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.ContactNumber)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.ContactNumber, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.AdminId)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.AdminId, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.Password)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.Password, new { @class = "form-control", type = "Password" })</div>
+        </div><br />
+        <input type="submit" value="Register" class="btn btn-primary" /><br />
+    }
+
+</div>
+
+

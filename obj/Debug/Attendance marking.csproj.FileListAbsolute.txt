@@ -1,0 +1,160 @@
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.dll.config
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.pdb
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.exe
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.rsp
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.exe
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.rsp
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\EntityFramework.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\WebGrease.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\EntityFramework.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csprojAssemblyReference.cache
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csproj.CoreCompileInputs.cache
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csproj.CopyComplete
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\TrainingManagementSystem.dll
+C:\Users\Kota Sandeep Kumar\Downloads\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\TrainingManagementSystem.pdb
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\TrainingManagementSystem.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\TrainingManagementSystem.pdb
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.dll.config
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\TrainingManagementSystem.pdb
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.exe
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csc.rsp
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.exe
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\csi.rsp
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.exe
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\EntityFramework.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Razor.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\WebGrease.dll
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\EntityFramework.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.Razor.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csprojAssemblyReference.cache
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csproj.CoreCompileInputs.cache
+C:\Users\KRISH\Desktop\avinash\TrainingManagementSystem (1)\TrainingManagementSystem\obj\Debug\Attendance marking.csproj.CopyComplete
+C:\Users\Kota Sandeep Kumar\Downloads\Attendance Marking\obj\Debug\Attendance marking.csprojAssemblyReference.cache
+C:\Users\Kota Sandeep Kumar\Downloads\Attendance Marking\obj\Debug\Attendance marking.csproj.CoreCompileInputs.cache
+C:\Users\Kota Sandeep Kumar\Downloads\Attendance Marking\obj\Debug\TrainingManagementSystem.dll
+C:\Users\Kota Sandeep Kumar\Downloads\Attendance Marking\obj\Debug\TrainingManagementSystem.pdb

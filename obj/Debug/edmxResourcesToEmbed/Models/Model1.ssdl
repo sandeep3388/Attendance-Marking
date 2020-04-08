@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AdminDetails">
+    <Key>
+      <PropertyRef Name="AdminId" />
+    </Key>
+    <Property Name="FirstName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ContactNumber" Type="int" Nullable="false" />
+    <Property Name="AdminId" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sessions">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="SessionDescription" Type="varchar(max)" Nullable="false" />
+    <Property Name="Skills" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SessionDate" Type="date" Nullable="false" />
+    <Property Name="SessionTime" Type="time" Precision="7" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TrainerDetail">
+    <Key>
+      <PropertyRef Name="TrainerId" />
+    </Key>
+    <Property Name="TrainerId" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="TrainerName" Type="varchar(max)" Nullable="false" />
+    <Property Name="ContactNumber" Type="int" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Skills" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserDetails">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="FirstName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ContactNumber" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="AdminDetails" EntityType="Self.AdminDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sessions" EntityType="Self.Sessions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TrainerDetail" EntityType="Self.TrainerDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserDetails" EntityType="Self.UserDetails" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

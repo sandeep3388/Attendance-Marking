@@ -1,0 +1,44 @@
+﻿@model AttendanceMarking.Models.TrainerDetail
+@{
+	ViewBag.Title = "AddTrainerDetails";
+	Layout = "~/Views/Shared/Index_LayoutPage1.cshtml";
+}
+
+<h2>AddTrainerDetails</h2>
+
+<div>
+	@using (Html.BeginForm("SaveAddTrainer", "AddTrainer"))
+	{
+		<div style="color:red;">@Html.ValidationSummary()</div>
+		<div class="row">
+			<!--Show details are saved successfully message-->
+			<div class="col-lg-12">@ViewBag.Message</div>
+			<div class="col-lg-2">@ViewBag.DuplicateMessage</div>
+		</div><br />
+		<div class="row">
+			<div class="col-lg-2">@Html.LabelFor(a => a.TrainerId)</div>
+			<div class="col-lg-10">@Html.TextBoxFor(a => a.TrainerId, new { @class = "form-control" })</div>
+		</div><br />
+		<div class="row">
+			<div class="col-lg-2">@Html.LabelFor(a => a.TrainerName)</div>
+			<div class="col-lg-10">@Html.TextBoxFor(a => a.TrainerName, new { @class = "form-control" })</div>
+		</div><br />
+		<div class="row">
+			<div class="col-lg-2">@Html.LabelFor(a => a.ContactNumber)</div>
+			<div class="col-lg-10">@Html.TextBoxFor(a => a.ContactNumber, new { @class = "form-control" })</div>
+		</div><br />
+		<div class="row">
+			<div class="col-lg-2">@Html.LabelFor(a => a.Skills)</div>
+			<div class="col-lg-10">@Html.TextBoxFor(a => a.Skills, new { @class = "form-control" })</div>
+		</div><br />
+		<div class="row">
+			<div class="col-lg-2">@Html.LabelFor(a => a.Email)</div>
+			<div class="col-lg-10">@Html.TextBoxFor(a => a.Email, new { @class = "form-control" })</div>
+		</div><br />
+		<br />
+
+
+		<input type="submit" value="Submit" class="btn btn-primary" /><br />
+	}
+
+</div>

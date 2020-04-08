@@ -1,0 +1,31 @@
+﻿@model AttendanceMarking.Models.AdminLoginViewModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/Login_LayoutPage1.cshtml";
+}
+
+<h2>Login</h2>
+
+
+<div>
+    @using (Html.BeginForm("Login", "AdminAccount"))
+    {
+        <div style="color:red;">@Html.ValidationSummary()</div>
+        <div class="row">
+            <!--Show details are saved successfully message-->
+            <div class="col-lg-12">@ViewBag.Message</div>
+        </div><br />
+
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.AdminId)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.AdminId, new { @class = "form-control" })</div>
+        </div><br />
+        <div class="row">
+            <div class="col-lg-2">@Html.LabelFor(a => a.Password)</div>
+            <div class="col-lg-10">@Html.TextBoxFor(a => a.Password, new { @class = "form-control", type = "Password" })</div>
+        </div><br />
+        <input type="submit" value="Login" class="btn btn-primary" />
+    }
+
+</div>
+
